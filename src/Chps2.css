@@ -1,0 +1,70 @@
+body{
+    background-color: #cddfff;
+    color:black;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+#chps2{
+    padding: 30px;
+	padding-top: 50px;
+	background-color: white;
+	border-radius: 5%;
+	width: 480px;
+	height: 480px;
+    position: absolute;
+    left: 32%;
+    top: 10%;
+	border : 2px solid black;
+}
+
+#pass{
+    width: 80%;
+	height: 15%;
+	background: transparent;
+	border: none;
+	border-bottom: 2px solid black;
+	font-size: 30px;
+	padding-top: 10px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	position: absolute;
+	top: 70px;
+	left: 50px;
+}
+
+#pass2{
+    width: 80%;
+	height: 15%;
+	background: transparent;
+	border: none;
+	border-bottom: 2px solid black;
+	font-size: 30px;
+	padding-top: 10px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	position: absolute;
+	top: 250px;
+	left: 50px;
+}
+
+#newspan2{
+    font-size: 250%;
+}
+
+#check2{
+    width: 90%;
+	height: 15%;
+	position: absolute;
+	top: 430px;
+	left: 5%;
+	border-radius: 15px;
+	text-align: center;
+	background-color: #f2d2a9;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 30px;
+}
+
+#check2:hover{
+    background-color: black;
+    color:#cddfff;
+    transition: 1s;
+}

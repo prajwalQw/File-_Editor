@@ -1,0 +1,93 @@
+#edit{
+    width: auto;
+    height:50%;
+    background-color: white;
+    border: 2px solid black;
+    position: absolute;
+    left:5%;
+    top: 25%;
+}
+
+#hd20{
+    font-size: 80px;
+    position: absolute;
+    top: 10px;
+    left: 38%;
+    padding: 10px 10px 10px 10px;
+}
+
+#bt20{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: -40%;
+    left: 90%;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #f2d2a9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+#bt20:hover{
+    background-color: black;
+    color:#cddfff;
+    transition: 1s;
+}
+
+#filename{
+    width: 80%;
+	height: 5%;
+	background: transparent;
+	border: none;
+	border-bottom: 2px solid black;
+	font-size: 20px;
+	padding-top: 10px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	position: absolute;
+	top: -60px;
+	left: 0px;
+}
+
+#filename::placeholder{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#home{
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top: -40%;
+    left: 0%;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #f2d2a9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+#home:hover{
+    background-color: black;
+    color:#cddfff;
+    transition: 1s;
+}
+
+#rename{
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    top: -20%;
+    left: 88%;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #f2d2a9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+#rename:hover{
+    background-color: black;
+    color:#cddfff;
+    transition: 1s;
+}
